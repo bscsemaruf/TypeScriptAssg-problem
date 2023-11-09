@@ -1,6 +1,6 @@
 ## 1. What are some benefits of using TypeScript over JavaScript in a project?
 
-> We can prevent data type error on the coding time. We can perceive our code after long time in shortly
+> We can prevent data type error on the coding time. We can perceive our code after long time in shortly.
 
 ## 2. What is the purpose of the optional chaining (?.) and nullish coalescing (??) operators in TypeScript, and how do they work?
 
